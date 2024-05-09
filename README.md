@@ -1,6 +1,6 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
-<h3>NAME:MUKESH.R</h3>
-<h3>REGISTER NO:212223240100</h3>
+<h3>NAME:kavya k</h3>
+<h3>REGISTER NO:212222230065</h3>
 
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
